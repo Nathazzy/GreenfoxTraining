@@ -6,6 +6,7 @@ target/
 .idea/
 # Log file
 *.log
+asdfas
 
 # BlueJ files
 *.ctxt
